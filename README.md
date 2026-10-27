@@ -30,3 +30,10 @@ All findings describe synthetic data.
 Email costs include sending/platform fees, while paid-ad
 costs include media spend. Staff, creative production,
 and product costs are excluded. Revenue is not profit.
+## Dashboard previews
+
+### Campaign Overview
+![Campaign overview](Overview.png)
+
+### Campaign Details
+![Campaign details](Campaign_Details.png)
